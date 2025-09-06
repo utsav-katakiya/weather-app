@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://utsav-weather-app.netlify.app/sitemap.xml
